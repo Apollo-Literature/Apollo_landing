@@ -553,7 +553,7 @@ strong {
   HERO        
 -----------------------------------------*/
 .hero-section {
-  background-image: url('../images/businessman-sitting-by-table-cafe.jpg');
+  background-image: url('../images/book.mp4');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -912,7 +912,7 @@ strong {
 
 
 /*---------------------------------------
-  SOCIAL ICON               
+  SOCIAL ICON
 -----------------------------------------*/
 .social-icon {
   margin: 0;
@@ -942,7 +942,13 @@ strong {
 .social-icon-link:hover {
   background: var(--primary-color);
   color: var(--white-color);
+
+.social-icon-link bi-instagram{
+  background-image: url('../images/insta.jpg');
+  color: var(--white-color);
+
 }
+  }
 
 
 /*---------------------------------------

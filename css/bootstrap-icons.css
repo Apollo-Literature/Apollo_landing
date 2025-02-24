@@ -509,7 +509,7 @@ b, strong {
  HERO
 -----------------------------------------*/
 .hero-section {
-  background-image: url('../images/businessman-sitting-by-table-cafe.jpg');
+  background-image: url('../images/ebooks.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -576,7 +576,7 @@ b, strong {
  CUSTOM BLOCK
 -----------------------------------------*/
 .custom-block {
-  background-image: url('../images/businessman-sitting-by-table-cafe.jpg');
+  background-image: url('../images/ebooks.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -878,6 +878,7 @@ b, strong {
   height: 35px;
   line-height: 36px;
   transition: background 0.2s, color 0.2s;
+
 }
 
 .social-icon-link:hover {
